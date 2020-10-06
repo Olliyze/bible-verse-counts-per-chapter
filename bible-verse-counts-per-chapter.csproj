@@ -6,4 +6,9 @@
     <RootNamespace>bible_verse_counts_per_chapter</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Json.Comparer" Version="0.6.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
 </Project>

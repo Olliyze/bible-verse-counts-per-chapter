@@ -1,4 +1,6 @@
 ﻿using System;
+using Newtonsoft.Json;
+using Json.Comparer;
 
 namespace bible_verse_counts_per_chapter
 {
